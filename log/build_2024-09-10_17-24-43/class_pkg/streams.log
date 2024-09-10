@@ -1,0 +1,26 @@
+[1.475s] Invoking command in '/home/mech1/MWorkspace/turtlebot_ws/build/class_pkg': PYTHONPATH=/home/mech1/MWorkspace/turtlebot_ws/build/class_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mech1/MWorkspace/turtlebot_ws/build/class_pkg/build --no-deps symlink_data
+[1.788s] running develop
+[1.808s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.809s]   warnings.warn(
+[2.015s] running egg_info
+[2.016s] creating class_pkg.egg-info
+[2.016s] writing class_pkg.egg-info/PKG-INFO
+[2.016s] writing dependency_links to class_pkg.egg-info/dependency_links.txt
+[2.016s] writing entry points to class_pkg.egg-info/entry_points.txt
+[2.016s] writing requirements to class_pkg.egg-info/requires.txt
+[2.017s] writing top-level names to class_pkg.egg-info/top_level.txt
+[2.017s] writing manifest file 'class_pkg.egg-info/SOURCES.txt'
+[2.018s] reading manifest file 'class_pkg.egg-info/SOURCES.txt'
+[2.018s] writing manifest file 'class_pkg.egg-info/SOURCES.txt'
+[2.019s] running build_ext
+[2.020s] Creating /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/lib/python3.10/site-packages/class-pkg.egg-link (link to .)
+[2.020s] Installing custom_talker script to /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/lib/class_pkg
+[2.021s] 
+[2.021s] Installed /home/mech1/MWorkspace/turtlebot_ws/build/class_pkg
+[2.021s] running symlink_data
+[2.021s] creating /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/share/ament_index
+[2.021s] creating /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/share/ament_index/resource_index
+[2.022s] creating /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/share/ament_index/resource_index/packages
+[2.022s] symbolically linking /home/mech1/MWorkspace/turtlebot_ws/build/class_pkg/resource/class_pkg -> /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/share/ament_index/resource_index/packages
+[2.022s] symbolically linking /home/mech1/MWorkspace/turtlebot_ws/build/class_pkg/package.xml -> /home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/share/class_pkg
+[2.048s] Invoked command in '/home/mech1/MWorkspace/turtlebot_ws/build/class_pkg' returned '0': PYTHONPATH=/home/mech1/MWorkspace/turtlebot_ws/build/class_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/MWorkspace/turtlebot_ws/install/class_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mech1/MWorkspace/turtlebot_ws/build/class_pkg/build --no-deps symlink_data
